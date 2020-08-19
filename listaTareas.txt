@@ -1,0 +1,5 @@
+Lista de tareas para el desarrollo de esta App
+
+	- Hacer back y logica para las diferentes opciones
+	- Ver material desing para UI de la app
+	- Ver maneras graficas de traducir la seleccion randomica, animaciones
