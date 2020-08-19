@@ -1,0 +1,9 @@
+Quiero desarrollar una pequeña app que me permita 
+a traves de distintas acciones escoger una decisión
+entre opciones que un usuario pueda ingresar.
+
+Por ejemplo:
+
+1. De forma random entre lass opciones.
+2. Una ruleta que muestre como se escoge una de las opciones
+3. Que tenga tambien caracteristicas randomicas, como dados, monedas, si y no a 50% de probabilidades
